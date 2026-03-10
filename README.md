@@ -74,7 +74,7 @@ The program first retrieves the content of a news article directly from a URL.
 
 The summarization module uses the T5-base transformer model.
 
-### Workflow:
+**Workflow:**
 
 1. Load the pretrained T5 model and tokenizer.
 
